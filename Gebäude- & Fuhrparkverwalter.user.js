@@ -13,7 +13,7 @@
     // @run-at      document-idle
     // @grant       none
     // @resource    https://forum.leitstellenspiel.de/index.php?thread/23925-script-geb%C3%A4ude-fuhrparkverwalter-by-bos-ernie/
-    // @require     https://update.greasyfork.org/scripts/491642/1354160/%2A%20Common%3A%20IndexedDB.js
+    // @require     https://github.com/Sobol0202/BOS-Ernies-LSS-Scripte/raw/refs/heads/main/Commons/Common:%20IndexedDB.js
     // ==/UserScript==
      
     /* global $, user_premium */
